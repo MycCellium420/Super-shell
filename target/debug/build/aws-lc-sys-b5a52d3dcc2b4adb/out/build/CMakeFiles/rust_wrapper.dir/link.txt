@@ -1,0 +1,2 @@
+/data/data/com.termux/files/usr/bin/llvm-ar qc artifacts/libaws_lc_0_29_0_rust_wrapper.a CMakeFiles/rust_wrapper.dir/rust_wrapper.c.o
+/data/data/com.termux/files/usr/bin/llvm-ranlib artifacts/libaws_lc_0_29_0_rust_wrapper.a

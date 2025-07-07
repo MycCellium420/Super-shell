@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-lc-sys-0.29.0/aws-lc/include/openssl/arm_arch.h
+openssl/target.h
+-
+
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-lc-sys-0.29.0/aws-lc/include/openssl/asm_base.h
+openssl/target.h
+-
+openssl/boringssl_prefix_symbols_asm.h
+-
+cet.h
+-
+
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aws-lc-sys-0.29.0/aws-lc/include/openssl/target.h
+
+/data/data/com.termux/files/home/Olamo-os/target/debug/build/aws-lc-sys-b5a52d3dcc2b4adb/out/build/aws-lc/crypto/chacha/chacha-armv8.S
+openssl/asm_base.h
+-
+openssl/arm_arch.h
+-
+
+/data/data/com.termux/files/home/Olamo-os/target/debug/build/aws-lc-sys-b5a52d3dcc2b4adb/out/build/aws-lc/crypto/cipher_extra/chacha20_poly1305_armv8.S
+openssl/asm_base.h
+-
+openssl/arm_arch.h
+-
+
+/data/data/com.termux/files/home/Olamo-os/target/debug/build/aws-lc-sys-b5a52d3dcc2b4adb/out/build/aws-lc/crypto/test/trampoline-armv8.S
+openssl/asm_base.h
+-
+openssl/arm_arch.h
+-
+
+aws-lc/symbol_prefix_include/openssl/boringssl_prefix_symbols.h
+
+aws-lc/symbol_prefix_include/openssl/boringssl_prefix_symbols_asm.h
+openssl/boringssl_prefix_symbols.h
+-
+

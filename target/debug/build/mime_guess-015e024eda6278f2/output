@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/data/data/com.termux/files/home/Olamo-os/target/debug/build/mime_guess-015e024eda6278f2/out/mime_types_generated.rs

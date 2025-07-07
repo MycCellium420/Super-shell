@@ -1,0 +1,10 @@
+/data/data/com.termux/files/home/Olamo-os/target/debug/deps/fs_extra-3663b51257953a98.d: /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fs_extra-1.3.0/src/lib.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fs_extra-1.3.0/src/error.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fs_extra-1.3.0/src/file.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fs_extra-1.3.0/src/dir.rs
+
+/data/data/com.termux/files/home/Olamo-os/target/debug/deps/libfs_extra-3663b51257953a98.rlib: /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fs_extra-1.3.0/src/lib.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fs_extra-1.3.0/src/error.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fs_extra-1.3.0/src/file.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fs_extra-1.3.0/src/dir.rs
+
+/data/data/com.termux/files/home/Olamo-os/target/debug/deps/libfs_extra-3663b51257953a98.rmeta: /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fs_extra-1.3.0/src/lib.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fs_extra-1.3.0/src/error.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fs_extra-1.3.0/src/file.rs /data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fs_extra-1.3.0/src/dir.rs
+
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fs_extra-1.3.0/src/lib.rs:
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fs_extra-1.3.0/src/error.rs:
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fs_extra-1.3.0/src/file.rs:
+/data/data/com.termux/files/home/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fs_extra-1.3.0/src/dir.rs:

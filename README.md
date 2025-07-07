@@ -1,15 +1,16 @@
-# Project OLAMO: The AI-Native Supershell
+# Project Super-Shell: The AI-Native Supershell
 
-OLAMO is a mobile-first, AI-native operating shell designed for autonomous agents. It's a powerful, natural language-powered terminal that allows you to interact with your system, execute commands, run code, and manage AI agents with unprecedented ease and customizability.
+SUPER-SHELL is a mobile-first, AI-native operating shell designed for autonomous agents. It's a powerful, natural language-powered terminal that allows you to interact with your system, execute commands, run code, and manage AI agents with unprecedented ease and customizability.
 
 ## Vision
 
-Olamo-OS aims to be your ultimate AI-powered assistant, enabling you to:
+Super-Shell aims to be your ultimate AI-powered assistant, enabling you to:
 
 - **Interact Natively:** Use natural language to command your system, eliminating the need for complex syntax.
-- **Empower Autonomous Agents:** Leverage built-in AI agents for various tasks, from web searches to code execution and file manipulation.
-- **Bring Your Own AI:** Customize and integrate your preferred AI models and agents.
-- **Self-Improve:** Develop and enhance Olamo-OS itself using its own AI capabilities.
+- **LLM-Driven Orchestration:** The core of Super-Shell is an LLM that interprets your natural language commands, decides on the appropriate tools to use, executes them, and integrates their output into a coherent natural language response.
+- **Empower Autonomous Agents:** Leverage built-in AI agents, powered by `swarms-rs`, for various tasks, from web searches to code execution and file manipulation. These agents can be spawned and managed directly by Super-Shell.
+- **Bring Your Own AI:** Customize and integrate your preferred AI models and agents (e.g., Ollama).
+- **Self-Improve:** Develop and enhance Super-Shell itself using its own AI capabilities.
 - **Run Anywhere:** Designed for portability, initially focusing on offline capabilities on mobile (Termux, Android).
 
 ## Core Features
